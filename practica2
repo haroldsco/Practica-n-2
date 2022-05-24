@@ -1,0 +1,46 @@
+-------------------------------------------------------------------
+-                       Practica Nª 2                             -
+-------------------------------------------------------------------
+-                                                                 -
+-            Auxiliatura Tecnologias Emergentes.                  -
+-                                                                 -
+-------------------------------------------------------------------
+-                                                                 -
+- Crear un nuevo  componente que sea el  copia de un componente   -
+- que ya tenga, pero en una version en "modo nocturno".           -
+-                                                                 -
+- El componente debe tener el  nombre  del  componente original   -
+- con la adicion de "Nocturno"                                    -
+-                                                                 -
+-           → MyPrincipalNocturno                                 -
+-                                                                 - 
+- Los cambios pueden hacerse  en Vue.  Directamente en el nuevo   -
+- componente, en un archivo css diferente del los que ya  tenga   -
+-                                                                 -   
+- En este componente debe cambiar:                                -     
+-     • Color de fuente                                           -
+-     • Color de fondo                                            -
+-     • Color de botones                                          - 
+-     • Color de items que tengan fondos claros                   -  
+-     • Color de iconos
+-     • Otros que crea necesario                                  -  
+-                                                                 -   
+- Notas:                                                          -   
+-                                                                 -   
+- Si los compentes en su proyecto ya tienen aspecto de estar en   - 
+- modo nocturno, realizar una version en "modo claro".            - 
+-                                                                 - 
+- Importante: En la siguiente practica  tendra  que implementar   -
+- este componete en su proyecto.                                  -  
+-                                                                 -                                 
+- Fecha:                                                          - 
+-                                                                 - 
+- La fecha de presentacion 31 de mayo de 2022                     -  
+-                                                                 - 
+- Presentación:                                                   -                 
+-                                                                 -
+- La practica se revisara en los repositorios de gitlab  de sus   -
+- proyectos para esto debe añadir al usuario @HaroldEscSistemas   -                                                                  
+- en el rol de "Maintainer"                                       -  
+-                                                                 -                            
+-------------------------------------------------------------------
