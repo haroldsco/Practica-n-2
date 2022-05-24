@@ -22,12 +22,12 @@
 -     • Color de fondo                                            -
 -     • Color de botones                                          - 
 -     • Color de items que tengan fondos claros                   -  
--     • Color de iconos
+-     • Color de iconos                                           -
 -     • Otros que crea necesario                                  -  
 -                                                                 -   
 - Notas:                                                          -   
 -                                                                 -   
-- Si los compentes en su proyecto ya tienen aspecto de estar en   - 
+- Si los compentes en su proyectos ya tienen aspecto de estar en  - 
 - modo nocturno, realizar una version en "modo claro".            - 
 -                                                                 - 
 - Importante: En la siguiente practica  tendra  que implementar   -
